@@ -1,16 +1,32 @@
-# tic_tac_toe
+# Tic Tac Toe
 
-A new Flutter project.
+A simple Tic Tac Toe game built with [technology/framework you used].
+
+## Screenshots
+
+![Game Screenshot](screenshots/game_screenshot.png)
+
+## Features
+
+- Interactive game board
+- Player turn tracking
+- Win detection
+- Game reset functionality
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- [List any prerequisites]
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+# Clone the repository
+git clone https://github.com/sanketsakpal/tic_tac_toe.git
+
+# Navigate to the project directory
+cd tic_tac_toe
+
+```
+
